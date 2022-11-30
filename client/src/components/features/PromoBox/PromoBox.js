@@ -15,7 +15,7 @@ const PromoBox = () => (
           <p>Showcase yourself and win enormous prizes!</p>
           <Link to="/submit">
             <Button color="primary" size="lg" className="btn-pill">Submit your work!</Button>
-          </Link>  
+          </Link>
         </Col>
         <Col xs="12" xl="6" className="order-1 order-xl-2">
           <div className="promo-box__photos d-flex justify-content-center">
